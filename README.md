@@ -14,13 +14,13 @@ Payment Insights: Distribution of sales across UPI, Debit Card, Credit Card, and
 Day-wise Sales: Trend of sales across days of the week.</BR>
 
 Tools & Technologies:</BR>
-Power BI – For dashboard creation and visualization.
-Excel / CSV – Data source for mobile sales.
-DAX & Power Query – Data transformation and calculated measures.
+Power BI – For dashboard creation and visualization.</BR>
+Excel / CSV – Data source for mobile sales.</BR>
+DAX & Power Query – Data transformation and calculated measures.</BR>
 
-Key Insights:
-Total Sales: ₹769M across 4K+ transactions.
-Top Brands: Apple, OnePlus, Samsung, and Vivo dominate sales.
-Customer Ratings: Majority rated as Good.
-Payment Mode: UPI and Debit Card are the most used.
-Day Trend: Highest sales observed on Monday & Friday.
+Key Insights:</BR>
+Total Sales: ₹769M across 4K+ transactions.</BR>
+Top Brands: Apple, OnePlus, Samsung, and Vivo dominate sales.</BR>
+Customer Ratings: Majority rated as Good.</BR>
+Payment Mode: UPI and Debit Card are the most used.</BR>
+Day Trend: Highest sales observed on Monday & Friday.</BR>
